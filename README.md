@@ -10,14 +10,16 @@ Aiffel 2기 온라인 과정중에 배웠던 것들을 업로드합니다.
 > 인공지능의 기본 이론을 배우는 과정
 <br/>
 
-### Fundamental 1
-- **분야** :
-- **데이터셋** :
-- **특징** :
-### Fundamental 1
-- **분야** :
-- **데이터셋** :
-- **특징** :
+| Lesson Number | 토픽 |분야| Learning Objectives  | Link| 데이터셋  | 
+| :--: | :---: | :----: | ---- | :-----: | :--: 
+|      01       |                Introduction to machine learning                |      [Introduction](1-Introduction/README.md)       | Learn the basic concepts behind machine learning                                                                                |                                             [Lesson](1-Introduction/1-intro-to-ML/README.md)                                             |                       Muhammad                       |
+|      02       |                The History of machine learning                 |      [Introduction](1-Introduction/README.md)       | Learn the history underlying this field                                                                                         |                                            [Lesson](1-Introduction/2-history-of-ML/README.md)                                            |                     Jen and Amy                      |
+|      03       |                 Fairness and machine learning                  |      [Introduction](1-Introduction/README.md)       | What are the important philosophical issues around fairness that students should consider when building and applying ML models? |                                              [Lesson](1-Introduction/3-fairness/README.md)                                               |                        Tomomi                        |
+|      04       |                Techniques for machine learning                 |      [Introduction](1-Introduction/README.md)       | What techniques do ML researchers use to build ML models?                                                                       |                                          [Lesson](1-Introduction/4-techniques-of-ML/README.md)                                           |                    Chris and Jen                     |
+|      05       |                   Introduction to regression                   |        [Regression](2-Regression/README.md)         | Get started with Python and Scikit-learn for regression models                                                                  |         <ul><li>[Python](2-Regression/1-Tools/README.md)</li><li>[R](2-Regression/1-Tools/solution/R/lesson_1.html)</li></ul>         |      <ul><li>Jen</li><li>Eric Wanjau</li></ul>       |
+|      06       |                North American pumpkin prices 🎃                |        [Regression](2-Regression/README.md)         | Visualize and clean data in preparation for ML                                                                                  |          <ul><li>[Python](2-Regression/2-Data/README.md)</li><li>[R](2-Regression/2-Data/solution/R/lesson_2.html)</li></ul>          |      <ul><li>Jen</li><li>Eric Wanjau</li></ul>       |
+|      07       |                North American pumpkin prices 🎃                |        [Regression](2-Regression/README.md)         | Build linear and polynomial regression models                                                                                   |        <ul><li>[Python](2-Regression/3-Linear/README.md)</li><li>[R](2-Regression/3-Linear/solution/R/lesson_3.html)</li></ul>        |      <ul><li>Jen and Dmitry</li><li>Eric Wanjau</li></ul>       |
+
 <br/>
 
 <br/>
